@@ -6,7 +6,7 @@ import { ThirdwebProvider, ConnectButton, useActiveAccount } from "thirdweb/reac
 
 
 const client = createThirdwebClient({
-  clientId: "509114a5f65331d548cc997ba5bcb561"
+  clientId: "CLIENT_ID"
 })
 
 
